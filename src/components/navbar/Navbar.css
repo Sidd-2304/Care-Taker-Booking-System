@@ -1,0 +1,9 @@
+.img1{
+    width: 80px;
+    border-radius: 50%;
+}
+.nav-link.active{
+    color:rgb(255,48,48,0.8) !important;
+    font-size: 2rem;
+    font-weight: 800;
+}
