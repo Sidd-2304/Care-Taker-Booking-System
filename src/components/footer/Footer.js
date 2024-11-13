@@ -11,7 +11,7 @@ function Footer() {
       </div>
       <div>
         <p>elderlycareservices@gmail.com</p>
-        <p>+91-9785787823</p>
+        <p>+91-8712196308</p>
       </div>
     </div>
   )
